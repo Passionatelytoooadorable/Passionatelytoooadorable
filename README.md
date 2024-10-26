@@ -5,7 +5,7 @@ Specializing in Software Development and Artificial Intelligence, committed to e
 My proficiency is in programming languages like Java, Python, and C++, as well as hands-on experience in app development. 
 
 
-## GSSOC(24) Badges 🎯
+## GSSoC'24 Badges 🎯
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/contributorAnalytics">
 <img src="images/postman.png" width="100px" height="100px" />
   <img src="images/1.png" width="100px" height="100px" />
