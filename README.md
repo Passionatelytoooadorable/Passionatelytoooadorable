@@ -17,7 +17,7 @@
 - 💬 Ask Me About: Java, Python, SQL, Web Development, AI, or anything. <br>
 - 📫 Reach Me: [srinjayi.skr@gmail.com](mailto:srinjayi.skr@gmail.com) <br>
 - 🌎 Languages: English, Hindi, Bengali | Korean (familiar). <br>
-- 📍  Location:Mumbai <br>
+- 📍  Location: Mumbai <br>
 <br>
 <br>
 
