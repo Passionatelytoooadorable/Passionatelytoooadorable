@@ -25,7 +25,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,php,mysql,postman,cpp,java,vercel,git,linux&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,kotlin,python,php,mysql,postman,bootstrap,vercel,git,&perline=7" />
 </a>
 
 </div>
