@@ -1,4 +1,5 @@
-# Hi there! I’m @Passionatelytoooadorable
+# Hi there! I’m Srinjayi Sarkar
+Known as Passionatelytoooadorable
 My passion is about technology and its potential to drive innovation.
 Specializing in Software Development and Artificial Intelligence, committed to expanding my skills and knowledge in these areas.
 My proficiency is in programming languages like Java, Python, and C++, as well as hands-on experience in app development. 
