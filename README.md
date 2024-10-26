@@ -5,23 +5,25 @@
   <a href="https://srinjayisarkar.vercel.app/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/srinjayi-sarkar-264550251/">LinkedIn</a> - 
   <a href="https://discord.com/channels/@saturn022734">Discord</a> -
-  <a href="srinjayi.skr@gmail.com">Contact me</a> 
+  <a href="https://www.instagram.com/_srinjayi.sarkar_/">Instagram</a>
 </p>
 
-Known as Passionatelytoooadorable 👩‍💻 <br>
-My passion is about technology and its potential to drive innovation. <br>
-Specializing in Software Development and Artificial Intelligence, committed to expanding my skills and knowledge in these areas. <br>
-My proficiency is in programming languages like Java, Python, and C++, as well as hands-on experience in app development. 
+-----------------------------------------------------------
+- 👩 About Me: **Technology is the brush, and innovation is the art I create.** <br>
+- 💬 Ask Me About: JAVA, Python, SQL, Web Development, AI, or anything. <br>
+- 📫 Reach Me: [srinjayi.skr@gmail.com](mailto:srinjayi.skr@gmail.com) <br>
+- 🌎 I Know English, Hindi, Bengali | Korean (familiar). <br>
+- 📍  Location: India <br>
 
 
 ## GSSoC'24 Badges 🎯
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/contributorAnalytics">
-<img src="images/postman.png" width="100px" height="100px" />
-  <img src="images/1.png" width="100px" height="100px" />
-  <img src="images/2.png" width="100px" height="100px" />
-  <img src="images/3.png" width="100px" height="100px" />
-  <img src="images/4.png" width="100px" height="100px" />
-  <img src="images/5.png" width="100px" height="100px" />
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="images/Git Explorer.png" width="100px" height="100px" />
   </a>
 </div>
