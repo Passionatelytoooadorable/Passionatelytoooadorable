@@ -29,8 +29,6 @@
 </a>
 
 </div>
-
-<br>
 <br>
 
 ### Open Source Contributions 🚀
