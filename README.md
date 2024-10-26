@@ -27,7 +27,6 @@
 <a href="#" target="_blank">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,c,cpp,kotlin,php,mysql,postman,bootstrap,vercel,git,&perline=7" />
 </a>
-
 </div>
 <br>
 
