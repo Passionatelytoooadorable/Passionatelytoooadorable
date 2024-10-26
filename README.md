@@ -1,4 +1,13 @@
-# Hi there! I’m Srinjayi Sarkar
+<h1 align="center"> Hi there, I'm Srinjayi</a> </h1>
+
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="https://srinjayisarkar.vercel.app/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/srinjayi-sarkar-264550251/">LinkedIn</a> - 
+  <a href="https://discord.com/channels/@saturn022734">Discord</a> -
+  <a href="srinjayi.skr@gmail.com">Contact me</a> 
+</p>
+
 Known as Passionatelytoooadorable 👩‍💻 <br>
 My passion is about technology and its potential to drive innovation. <br>
 Specializing in Software Development and Artificial Intelligence, committed to expanding my skills and knowledge in these areas. <br>
