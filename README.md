@@ -14,7 +14,6 @@
 <img align="right" src="https://github.com/user-attachments/assets/118651a3-24bf-4d2d-aa03-c38eed677946" alt="Profile Image" width="300"/>
 
 - 👩 About Me: **Technology is the brush, and innovation is the art I create.** <br>
-- 💬 Ask Me About: Java, Python, SQL, Web Development, AI, or anything. <br>
 - 📫 Reach Me: [srinjayi.skr@gmail.com](mailto:srinjayi.skr@gmail.com) <br>
 - 🌎 Languages: English, Hindi, Bengali | Korean (familiar). <br>
 - 📍  Location: Mumbai <br>
